@@ -30,7 +30,7 @@ The Software is provided "as is", without warranty of any kind, express or impli
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/hamoodhabibi30/stream-scraper
 cd stream-scraper
 ```
 
